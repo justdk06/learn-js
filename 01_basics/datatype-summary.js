@@ -51,7 +51,7 @@ console.log(typeof anotherId);
 // Stack (Primitive), Heap (Non-Primitive)
 
 
-// let myYoutubename = 'Dhamrndra-06dotcom'
+// let myYoutubename = 'Dharmendra-06dotcom'
 
 // let anothername = myYoutubename
 // anothername = 'Dharmendra-iitm'
@@ -67,4 +67,4 @@ let userTwo = userOne
 
 userTwo.email = 'dharmendra@google.com'
 console.log(userOne.email);
-console.log(userTwo.email);
+console.log(userTwo.upi);
